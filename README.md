@@ -18,7 +18,7 @@ Interactive historical atlas of the Protestant Reformation across Europe (1370â€
 
 - ArcGIS Maps SDK for JavaScript 5.0
 - Calcite Design System
-- CartoDB Positron basemap tiles
+- Esri World Light Gray Canvas basemap tiles (no API key required)
 - Google Fonts (Cinzel + Inter)
 - Vanilla JavaScript (ES Modules)
 
